@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cat joblist.txt | while read line
+cat ${1} | while read line
 do
     job_code=`echo "${line}" | awk -F'\t' '{print $1}'`
     tab_name=`echo "${line}" | awk -F'\t'  '{print $2}'`

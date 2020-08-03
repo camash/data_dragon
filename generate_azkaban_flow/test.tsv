@@ -1,0 +1,3 @@
+000	start_kettle		
+001	test	/home/hadoop/test/kettle/all/test.sh resource	000_start_kettle
+002	end_job	/home/hadoop/test/kettle/all/end_job.sh	000_start_kettle, 001_test
