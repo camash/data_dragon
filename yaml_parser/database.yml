@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "imp-service-sys"
+  datasource:
+    name: mysql
+    username: root
+    password: XXXXXxxxxx
+jasypt:
+  encryptor:
+    password: yyyy
