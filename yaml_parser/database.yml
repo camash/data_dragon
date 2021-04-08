@@ -4,7 +4,7 @@ spring:
   datasource:
     name: mysql
     username: root
-    password: XXXXXxxxxx
+    password: ENC(gJ1X5oPBDsM+J3HcXt3u9oSERjLZ9XiR)
 jasypt:
   encryptor:
-    password: yyyy
+    password: shen
