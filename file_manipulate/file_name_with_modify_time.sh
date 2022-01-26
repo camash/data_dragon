@@ -1,0 +1,1 @@
+for f in ./*.csv ; do mv -n "$f" "$(basename $f .csv)_$(date -r "$f" +'%m%d_%H-%M-%S').csv"; done
