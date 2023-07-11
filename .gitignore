@@ -6,6 +6,7 @@
 *.cfg
 
 .idea/
+.vscode/
 
 =======
 >>>>>>> c953dc7c66c9b35a0ac975b102831a747fc3fb46
