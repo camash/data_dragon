@@ -1,6 +1,6 @@
 # data_dragon (数据一条龙)
 
-The widget code collection from my data engineering work. 
+The widget code was collected from my data engineering work. 
 These are code clips during my daily work to solve the hand on problem.
 The code is somewhat casual written and using different languages, such as bash shell, Python, Java, C, etc.
 
